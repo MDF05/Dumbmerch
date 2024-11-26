@@ -1,6 +1,6 @@
 [submodule "backend-ways-gallery"]
-	path = backend-ways-gallery
-	url = https://github.com/MDF05/backend-ways-gallery.git
+	path = backend-dumbmerch
+	url = https://github.com/MDF05/Dumbmerch-Backend.git
 [submodule "frontend-ways-gallery"]
-	path = frontend-ways-gallery
-	url = https://github.com/project-master-code/frontend-ways-gallery
+	path = frontend-dumbmerch	
+	url = https://github.com/MDF05/Dumbemerch-Frontend.git
