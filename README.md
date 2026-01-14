@@ -26,8 +26,8 @@ This is a **ROOT / MONOREPO** repository containing the following sub-projects:
 
 | Directory | Service | Description |
 | :--- | :--- | :--- |
-| [`/backend-dumbmerch`](./backend-dumbmerch/) | **Backend API** | RESTful API service handling business logic, database interactions, and authentication. |
-| [`/frontend-dumbmerch`](./frontend-dumbmerch/) | **Frontend Client** | Responsive web application provided user interface for customers and admins. |
+| [`/backend-dumbmerch`](https://github.com/MDF05/Dumbmerch-Backend) | **Backend API** | RESTful API service handling business logic, database interactions, and authentication. |
+| [`/frontend-dumbmerch`](https://github.com/MDF05/Dumbemerch-Frontend) | **Frontend Client** | Responsive web application provided user interface for customers and admins. |
 
 ---
 
@@ -54,8 +54,8 @@ The following documentation is available to guide you through the project's arch
 - [**🆘 SUPPORT.md**](./SUPPORT.md) - How to get help and support channels.
 
 ### Sub-Project Documentation
-- [**Backend Documentation**](./backend-dumbmerch/README.md)
-- [**Frontend Documentation**](./frontend-dumbmerch/README.md)
+- [**Backend Documentation**](https://github.com/MDF05/Dumbmerch-Backend/blob/main/README.md)
+- [**Frontend Documentation**](https://github.com/MDF05/Dumbemerch-Frontend/blob/main/README.md)
 
 ---
 
@@ -71,7 +71,7 @@ The following documentation is available to guide you through the project's arch
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/dumbmerch.git
+   git clone https://github.com/MDF05/dumbmerch.git
    cd dumbmerch
    ```
 
@@ -152,7 +152,7 @@ For security concerns, please refer to [SECURITY.md](./SECURITY.md). Do not repo
 
 ## 👥 Maintainers
 
-- **Dava** - *Project Lead* - [Profile](https://github.com/your-username)
+- **Dava** - *Project Lead* - [Profile](https://github.com/MDF05)
 
 ---
 
